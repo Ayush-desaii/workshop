@@ -50,7 +50,7 @@
 <p><a href="https://www.buymeacoffee.com/abc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abc" /></a><a href="https://ko-fi.com/abc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="abc" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush_desaii&show_icons=true&locale=en&layout=compact" alt="abc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-desaii&show_icons=true&locale=en&layout=compact" alt="abc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abc&show_icons=true&locale=en" alt="abc" /></p>
 
