@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm aaa</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h1 align="center">Hi 👋, I'm ayush</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abc&label=Profile%20views&color=0e75b6&style=flat" alt="abc" /> </p>
 
@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/abc" target="blank"><img src="https://img.shields.io/twitter/follow/abc?logo=twitter&style=for-the-badge" alt="abc" /></a> </p>
 
-- 🔭 I’m currently working on [chess](xyz.com)
-
+[//]: #-( 🔭 I’m currently working on [chess](xyz.com))
+  
 - 🌱 I’m currently learning **react**
 
 - 👯 I’m looking to collaborate on [email](abc.com)
