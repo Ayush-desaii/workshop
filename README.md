@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/abc" target="blank"><img src="https://img.shields.io/twitter/follow/abc?logo=twitter&style=for-the-badge" alt="abc" /></a> </p>
 
-[//]: # (- 🔭 I’m currently working on [chess](xyz.com))
+[]: # "- 🔭 I’m currently working on [chess](xyz.com)"
+
+[]: # "And this is a comment"
   
 - 🌱 I’m currently learning **react**
 
