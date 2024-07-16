@@ -3,31 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abc&label=Profile%20views&color=0e75b6&style=flat" alt="abc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abc" target="blank"><img src="https://img.shields.io/twitter/follow/abc?logo=twitter&style=for-the-badge" alt="abc" /></a> </p>
-
 [//]: # "- 🔭 I’m currently working on [chess](xyz.com)"
   
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on [email](abc.com)
-
-- 🤝 I’m looking for help with [aaa](axv.com)
-
-- 👨‍💻 All of my projects are available at [portfolio.xyz](portfolio.xyz)
-
-- 📝 I regularly write articles on [devcomm.z](devcomm.z)
-
-- 💬 Ask me about **cs**
-
-- 📫 How to reach me **abc@gmail.com**
+- 📫 How to reach me **ayushdesai1210@gmail.com**
 
 - 📄 Know about my experiences [resume.c](resume.c)
 
 - ⚡ Fun fact **i like everything**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
